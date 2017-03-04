@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnImage.setOnClickListener(this);
         // Write a message to the database
         database = FirebaseDatabase.getInstance();
+        //
         myRef = database.getReference("Image");
 
 
