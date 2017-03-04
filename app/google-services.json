@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "161770915638",
+    "firebase_url": "https://imagechangefirebase.firebaseio.com",
+    "project_id": "imagechangefirebase",
+    "storage_bucket": "imagechangefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161770915638:android:b84d6710eafbb306",
+        "android_client_info": {
+          "package_name": "com.example.samar.imagechangefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161770915638-kelekc5is2ovmr1vbufln7sf78mhd3st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samar.imagechangefirebase",
+            "certificate_hash": "81bca57b216f1eff0f8e0bdc9598652cd4c216fc"
+          }
+        },
+        {
+          "client_id": "161770915638-g2e04ci40rhfnr109d2je6rd7f0mks1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGNIZ_tD9qIpYjCHSE7cL-GOpcBXDl7Pg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161770915638-g2e04ci40rhfnr109d2je6rd7f0mks1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
